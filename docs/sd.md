@@ -12,7 +12,7 @@ A telemetria abaixo é a prova física em bare-metal de modulação de campos e 
 
 * **Norma Média ($\Vert{}\psi\Vert{}^2$):** 3.14158951
 * **Coerência de Kuramoto ($R$):** 0.9999999
-* **Pureza do Estado ($\text{Tr}(\rho^2)$):** 1.000000
+* **Pureza do Estado ($\text{Tr}(\rho^2)$):** 1.000000** 1.000000
 * **Ciclos de CPU (RDTSC):** 10,427.74 ciclos/frame (Média)
 * **Fator de Lorentz ($\gamma$):** 1.000000
 * **Carga de Noether Média:** 1.00000000
